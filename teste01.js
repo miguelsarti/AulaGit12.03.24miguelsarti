@@ -4,6 +4,6 @@ let b = 30;
 
 let resultado = a - b;
 
-let mensagem = "O resultado é: "
+let mensagem = "A resposta é: "
 
 console.log(mensagem + resultado);
