@@ -2,7 +2,7 @@ let a = 20;
 
 let b = 5;
 
-let resultado = a * b;
+let resultado = a - b;
 
 let mensagem = "O resultado é: "
 
