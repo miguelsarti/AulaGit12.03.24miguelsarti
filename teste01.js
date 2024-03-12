@@ -1,6 +1,6 @@
 let a = 20;
 
-let b = 5;
+let b = 15;
 
 let resultado = a - b;
 
